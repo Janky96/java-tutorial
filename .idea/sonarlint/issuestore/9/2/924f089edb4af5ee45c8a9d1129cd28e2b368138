@@ -1,0 +1,34 @@
+
+7
+java:S1643N"Use a StringBuilder instead.(å¤Ïüùÿÿÿÿ
+7
+java:S1643`"Use a StringBuilder instead.(å¤Ïüùÿÿÿÿ
+7
+java:S1643j"Use a StringBuilder instead.(å¤Ïüùÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+B
+java:S1125D"'Remove the unnecessary boolean literal.(üÏ²Êÿÿÿÿÿ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(‘Ä¸Éùÿÿÿÿ
+S	java:S106d"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
+B
+java:S1128",Remove this unused import 'ogetti.Studente'.(»ì‰ˆ
+E
+java:S1144
+"/Remove this unused private "sommaArray" method.(½‘°Õ
+I
+java:S1144".Remove this unused private "arrayPari" method.(‹Éäµşÿÿÿÿ
+X
+java:S1144-"BRemove this unused private "inizializzaInteriNumCrescente" method.(»…€²
+T
+java:S11449">Remove this unused private "inizializzaArrayTuttiTrue" method.(¿Ïƒï
+V
+java:S1144A";Remove this unused private "verificaArrayTuttiTrue" method.(ŞÁúÿÿÿÿ
+N
+java:S1144T"8Remove this unused private "stampaArrayDiInteri" method.(‰œª™
+P
+java:S1144\":Remove this unused private "stampaArrayDiInteriV2" method.(½³‰†
+[
+java:S1144g"@Remove this unused private "stampaArrayDiInteriV2ConFor" method.(•ğÀşùÿÿÿÿ
